@@ -26,7 +26,7 @@ const CTASection: React.FC = () => {
 
             <div>
                 <a 
-                href="https://www.paypal.com/ncp/payment/89DAAZE3F758N" 
+                href="https://www.paypal.com" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center justify-center px-16 py-6 bg-orange-500 text-white text-2xl font-black rounded-[2rem] hover:bg-orange-600 transition-all hover:scale-105 active:scale-95 shadow-[0_20px_50px_rgba(245,158,11,0.3)] uppercase tracking-tighter italic"
